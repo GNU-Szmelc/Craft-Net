@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=SkyNET Launcher
+Comment=
+Exec=python3 skynet.py
+Icon=redeyes
+Path=
+Terminal=true
+StartupNotify=false
